@@ -1,8 +1,9 @@
 # [Ishant Sharma](https://in.linkedin.com/in/ishant-sharma-47451312a)
-![](https://media.licdn.com/dms/image/v2/D5603AQHqCoRqQrYJ6Q/profile-displayphoto-scale_200_200/B56Zh_au0AHQAc-/0/1754484372660?e=2147483647&v=beta&t=vUh4_xf90H5FHbwwZdFC-MOpJiVTmqP36xBgTm3oWx4) 👩‍💻 DevOps Lead at [Genpact](https://www.genpact.com/) | Ex-HFT [APT Portfolio](https://rocketreach.co/ishant-sharma-email_134981353) | Ex-Intern [Technical University of Sofia, Bulgaria](https://tu-sofia.bg/?lang=en)
-```
+![](https://media.licdn.com/dms/image/v2/D5603AQHqCoRqQrYJ6Q/profile-displayphoto-scale_200_200/B56Zh_au0AHQAc-/0/1754484372660?e=2147483647&v=beta&t=vUh4_xf90H5FHbwwZdFC-MOpJiVTmqP36xBgTm3oWx4) 👩‍💻 DevOps Lead at [Genpact](https://www.genpact.com/) | Ex-HFT [APT Portfolio](https://rocketreach.co/ishant-sharma-email_134981353) 
+| Ex-Intern [Technical University of Sofia, Bulgaria](https://tu-sofia.bg/?lang=en)
+
 Location: Delhi-NCR, India   |  ✉️ Email: [ishants.26@gmail.com](mailto:ishants.26@gmail.com)  |  📞 Mob: +91-7838034597
-```
+---
 ### 🛠 Skills 
 - *Problem Solving*  
 - Leader `& Mentoring`  
