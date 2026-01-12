@@ -18,11 +18,11 @@
 - *In-house SAAS* Solutioning & Network **Orchestration**
 - Product designing & `Release management`
 - **`Service Now`** - CDP Application Development
-- Cost Saving & *Internet Speed* Enhancement
-- **Chatbot Development** `Kore.ai` with Generative AI
+- Enhanced *internet speeds by 5X* across 3 office locations, **saving TBs** of data everyweek
+- **Chatbot Development** `Kore.ai` with Generative AI, achieveing 90% ticket reduction
 - *Data Modelling* for Analysis & Predictions
 - `API` Creation & Management, and Integrations
-- `Crew.AI` for **Agentic AI** development
+- `Crew.AI` for **Agentic AI** development, reducing 9600 Man-Hours annually
 - **Prompt Engineering** for AI optimal responses
 - CI/CD pipelines via [Github Actions](https://docs.github.com/en/actions) & [Runners](https://docs.github.com/en/actions/concepts/runners)
 - `Bash Scripting & Python` for achieving end-to-end automations
@@ -30,18 +30,24 @@
 
 ---
 [**A.P.T. Portfolio Pvt. Ltd.**](https://in.linkedin.com/company/genpact) **`Senior DevOps Engineer`** : `Aug2018 - Mar2022`
-- `Ansible` & `Ansible Tower(AWX)` for config mgmt, patching on scale, release deployments for In-house apps, etc.
-- CI/CD Pipelines via `Bitbucket & Jenkins`
+- `Ansible` & `Ansible Tower(AWX)` - reducing manual patching time by 85% and achieving 99.5% compliance rate for 2000+ servers
+- CI/CD Pipelines via `Bitbucket & Jenkins` - reducing deployment time by 70%
 - Environment Mgmt for **`AWS`** & `GCP` 
 - Backup Mgmt: `Duplicati, Bacula & Restic`
 - API Integrations in `GoLang`, `Python` & `Bash`
 - Virtualizations: `Virtualbox, Hyper-V, Systemd-nspawn, docker`
-- Custom plugin creation for Monitoring, `RPM` & `DEB` packaging
-- [Google Workspace](https://workspace.google.com/intl/en_in/) Administration | [Red Hat `IPA`](https://access.redhat.com/products/identity-management)
+- Custom plugin creation - `RPM` & `DEB` packaging
+- [Google Workspace](https://workspace.google.com/intl/en_in/) Administration | [Red Hat `IPA`](https://access.redhat.com/products/identity-management) - smoothening Onboarding (reduced 4hrs per onboarding)
+
+#### Other Work
 
 [**Technical University of Sofia, Bulgaria**](https://tu-sofia.bg/?lang=en) **`Intern`** `Jun2017 - Jul2017`
 - `Android Studio` App Development & API Creation with `Node JS` Server
 - **Human Computer Interface** [Emotiv Epoc](https://www.emotiv.com/) with `C++`
+
+[**Blood Donation Volunteer**] (every 4 months)
+- Organising records of blood donors
+- Certificates distribution
 
 ### Education 🧠
 
