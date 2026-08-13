@@ -6,7 +6,7 @@
 
 ---
 
-## Summary
+## Summary [Ishant Sharma DevOps](https://www.google.com/search?q=ishant+sharma+devops)
 
 DevOps Lead with 8 years of experience across On-Prem, Multi-Cloud, and Network Infrastructure automation. Proven track record of consistent growth — **2 promotions in 3.5 years** at A.P.T. Portfolio *(HFT Firm)* and **1 promotion + 1 designation refresh with 4 recognition awards** at Genpact. Specializes in leading infrastructure transformation initiatives (NetOps → NetDevOps → NetDevOps AI → Agentic NetDevOps), CI/CD automation, Generative & Agentic AI solutioning, and large-scale cost/bandwidth optimization.
 
